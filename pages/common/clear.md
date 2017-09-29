@@ -2,6 +2,6 @@
 
 > Clear the terminal screen.
 
-- Clear the terminal.
+- Clear the terminal:
 
 `clear`
