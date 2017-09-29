@@ -5,3 +5,4 @@
 - Clear the terminal
 
 `clear`
+
